@@ -1,0 +1,22 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "This storefront app will take in orders from customers and modify stock from the store's inventory.",
+  "main": "bamazoncostumer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alejandro483/bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alejandro483/bamazon/issues"
+  },
+  "homepage": "https://github.com/Alejandro483/bamazon#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
